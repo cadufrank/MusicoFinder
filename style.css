@@ -1,0 +1,115 @@
+body{
+    background: linear-gradient(to right,#f1eed7, #e0e0e0, #cccccc);
+    
+
+}
+
+/*NAVBAR*/
+.nav-bar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+.nav-bar-container{
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: flex-end;
+    align-content: space-between;
+    gap: 10px;
+    background-color: #e0e0e0;
+    border: 1px, solid, #e0e0e0;
+    border-radius: 3px;
+}
+
+.nav-bar-item{
+    text-decoration: none;
+    font-family: "Montserrat";
+    color: black;
+    font-weight: 500;
+    border: 2px, solid,white;
+    border-radius: 5px;
+    padding: 2px;
+    background: white;
+}
+/* END NAVBAR*/
+
+/* SEARCH SECTION */
+.search-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+    
+}
+.search-content{
+    text-align: center;
+    font-family: "Montserrat";
+    background-color: white;
+    padding: 2%;
+    margin-top: 5%;
+    border-radius: 30px;
+    width: 40%;
+}
+
+/* PLACEHOLDER STILE*/ 
+
+.search-input{
+    font-family: "Montserrat";
+    font-size: 16px;
+    color: #999;
+    width: 50%;
+    border-radius: 5px;   
+}
+.search-button{
+    font-family: "Montserrat";
+    font-size: 16px;
+    color: #383838;
+    border-radius: 5px;
+    border: 2px, solid, rgb(123, 123, 123);
+}
+.search-button:hover{
+    background-color: rgb(68, 68, 68);
+    color: white;
+    
+}
+
+
+
+/*END OF PLACEHOLDER STYLE*/
+
+/*MAIN TITLE ON SEARCH*/
+
+.search-item-title{
+    color: #383838;
+}
+/*SEARCH SECTION END*/
+
+
+/*RESULT CONTAINER*/
+.result-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    text-align: justify;
+    background-color: white;
+    margin: 5% auto; /* Isso centraliza horizontalmente */
+    width: 80%;
+    height: 90%;
+    border-radius: 50px;
+    padding: 3%;
+    font-family: "Montserrat";
+    color: #383838;
+}
+.result-knowmore-link{
+    text-decoration: none;
+    color: #383838;  
+}
+.result-knowmore-link:hover{
+    color:rgb(172, 172, 172);
+}
