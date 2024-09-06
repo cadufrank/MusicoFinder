@@ -20,9 +20,6 @@ MúsicoFinder é uma aplicação web simples que permite aos usuários pesquisar
 ## Contribuições
 Contribuições são bem-vindas! Abra um pull request para sugerir melhorias ou adicionar novos recursos.
 
-## Licença
-Este projeto está licenciado sob a licença [Nome da Licença].
-
 ## Próximos passos
 * Implementar pesquisa por palavras-chave.
 * Adicionar highlighting nos resultados da pesquisa.
@@ -33,4 +30,4 @@ Este projeto está licenciado sob a licença [Nome da Licença].
 * Carlos Frank - Desenvolvedor
 
 ## Agradecimentos
-Agradeço a Alura pela imersão que além de incrível, me ajudou a aprimorar meu conhecimento.
+Agradeço a Alura pela imersão que foi bem divertida.
