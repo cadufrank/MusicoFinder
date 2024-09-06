@@ -9,6 +9,7 @@ let dados = [{
     unique: "O que torna Melanie Martinez única?",
     uniquecontent : "A cantora se destaca por: Estética visual marcante: Seus clipes e apresentações ao vivo são conhecidos por seus visuais coloridos, surrealistas e muitas vezes macabros. Letras poéticas e introspectivas: As músicas de Melanie exploram temas como a infância, a adolescência, as relações interpessoais e a identidade de forma profunda e poética. Versatilidade artística: Além de cantar e compor, Melanie também dirige seus próprios videoclipes, demonstrando um talento multifacetado.",
     knowmore : "https://pt.wikipedia.org/wiki/Melanie_Martinez",
+    // tags: "boneca" muita coisa pra recriar :'d
 },
 {
     who: "Quem é Madonna?",
